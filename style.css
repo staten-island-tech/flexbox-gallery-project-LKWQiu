@@ -48,6 +48,7 @@ img{
     font-family: 'Courier New', Courier, monospace;
     max-width: 100%;
     transition: 1s;
+    box-shadow: 10px 10px 10px 5px rgba(0,0,0,0.5)
 
 }
 .box:hover{
