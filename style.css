@@ -28,6 +28,9 @@ body,html{
 a{
     display: block;
 }
+img{
+    margin-bottom: 10px;
+}
 .box{
     background-color: #98cc9e;
     border-radius: 10px;
