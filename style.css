@@ -23,6 +23,10 @@ body,html{
     margin: 40px;
     font-size: xx-large;
     align-items: center;
+    font-family: 'Courier New', Courier, monospace
+}
+a{
+    display: block;
 }
 .box{
     background-color: #98cc9e;
@@ -33,6 +37,7 @@ body,html{
     width: 350px;
     height: 350px;
     margin: 30px;
+    font-family: 'Courier New', Courier, monospace;
 }
 .box:hover{
     transform: scale(1.2);
