@@ -32,16 +32,24 @@ img{
     margin-bottom: 10px;
 }
 .box{
+    opacity: .7;
     background-color: #98cc9e;
     border-radius: 10px;
     border-width: 10px;
     border-style: solid;
     border-color:#3e8559;
     width: 350px;
-    height: 350px;
+    height: 200px;
+    overflow: hidden;
+    transform: transform .03s ease-in-out;
     margin: 30px;
     font-family: 'Courier New', Courier, monospace;
+    max-width: 100%;
+    transition: 1s;
+
 }
 .box:hover{
-    transform: scale(1.2);
+    opacity: 1;
+    transform: scale(1.5);
+    height: 350;
 }
