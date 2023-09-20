@@ -45,6 +45,7 @@ img{
     overflow: hidden;
     transform: transform .03s ease-in-out;
     margin: 30px;
+    padding: 40px;
     font-family: 'Courier New', Courier, monospace;
     max-width: 100%;
     transition: 1s;
