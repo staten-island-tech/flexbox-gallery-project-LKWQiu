@@ -11,6 +11,8 @@ body,html{
     flex-direction: row, column;
     justify-content: space-around;
     text-align: center;
+
+    
 }
 .title-box{
     background-color: #98cc9e;
@@ -39,7 +41,7 @@ img{
     border-style: solid;
     border-color:#3e8559;
     width: 350px;
-    height: 200px;
+    height: 150px;
     overflow: hidden;
     transform: transform .03s ease-in-out;
     margin: 30px;
