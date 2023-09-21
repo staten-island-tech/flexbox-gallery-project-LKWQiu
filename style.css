@@ -41,7 +41,7 @@ img{
     border-style: solid;
     border-color:#3e8559;
     width: 350px;
-    height: 150px;
+    height: 200px;
     overflow: hidden;
     transform: transform .03s ease-in-out;
     margin: 30px;
@@ -51,7 +51,9 @@ img{
     transition: 1s;
     box-shadow: 10px 10px 10px 5px rgba(0,0,0,0.5);
     position: relative;
-
+}
+.words{
+    padding-top: 40px;
 }
 .box:hover{
     opacity: 1;
