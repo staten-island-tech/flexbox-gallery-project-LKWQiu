@@ -32,6 +32,7 @@ a{
 }
 img{
     margin-bottom: 10px;
+    object-fit: contain;
 }
 .box{
     opacity: .8;
