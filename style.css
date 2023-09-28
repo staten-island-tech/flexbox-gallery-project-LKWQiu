@@ -77,9 +77,9 @@ img{
     .box{
         width: 100%;
         border-width: 5px;
+    }
     .box:hover{
         height: 400px;
-    }
     }
 }
 @keyframes slide {
