@@ -70,7 +70,7 @@ img{
     .box{
         width: 100%;
         border-width: 10px;
-        padding: 10px;
+        padding: 0px;
     }
     .box:hover{
         height: 400px;
