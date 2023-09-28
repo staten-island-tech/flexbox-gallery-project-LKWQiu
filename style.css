@@ -49,8 +49,7 @@ img{
     overflow: hidden;
     transform: transform .03s ease-in-out;
     margin: 30px;
-    padding-bottom: 40px;
-    padding-top: 20px;
+    padding: 20PX;
     align-items: center;
     font-family: 'Courier New', Courier, monospace;
     max-width: 100%;
@@ -69,9 +68,6 @@ img{
 }
 #box1:hover{
     background-color: rgb(65, 102, 91);
-}
-#box2:hover{
-    transform:rotate(800deg);
 }
 @media screen and (max-width:800px){
     .box{
