@@ -44,12 +44,11 @@ img{
     border-width: 10px;
     border-style: solid;
     border-color:#3e8559;
-    width: 350px;
+    width: 25%;
     height: 200px;
     overflow: hidden;
     transform: transform .03s ease-in-out;
     margin: 30px;
-    padding: 20PX;
     padding-top:10px;
     align-items: center;
     font-family: 'Courier New', Courier, monospace;
