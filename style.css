@@ -50,6 +50,7 @@ img{
     transform: transform .03s ease-in-out;
     margin: 30px;
     padding: 20PX;
+    padding-top:10px;
     align-items: center;
     font-family: 'Courier New', Courier, monospace;
     max-width: 100%;
@@ -64,7 +65,7 @@ img{
 .box:hover{
     opacity: 1;
     transform: scale(1.2);
-    height: 350px;
+    height: 370px;
 }
 @media screen and (max-width:800px){
     .box{
